@@ -1,12 +1,12 @@
 # Bot @coronavirus_mg
 
 ## Descrição
-Este repositório integra o projeto independente [Coronavirus-MG.com.br](Coronavirus-MG.com.br). Como parte deste trabalho, foi desenvolvido um "robô-jornalista" que diariamente coleta dados oficiais da [Secretaria de Estado de Saúde de Minas Gerais (SES)](https://coronavirus.saude.mg.gov.br/dadosabertos) sobre a pandemia da Covid-19 e publica um relatório automatizado no Twitter [@coronavirus_mg](www.twitter.com/coronavirus_mg).
+Este repositório integra o projeto independente [Coronavirus-MG.com.br](https://www.coronavirus-mg.com.br/). Como parte deste trabalho, foi desenvolvido um "robô-jornalista" que diariamente coleta dados oficiais da [Secretaria de Estado de Saúde de Minas Gerais (SES)](https://coronavirus.saude.mg.gov.br/dadosabertos) sobre a pandemia da Covid-19 e publica um relatório automatizado no Twitter [@coronavirus_mg](https://twitter.com/coronavirus_mg).
 
 O *bot* foi desenvolvido como parte dos requisitos da disciplina **Aplicações linguísticas inteligentes: Processamento de Língua Natural para comunicação de dados abertos e Jornalismo Computacional** do [Programa de Pós-Graduação em Estudos Linguísticos da Faculdade de Letras da UFMG (Pós-Lin)](http://poslin.letras.ufmg.br/ofertasem.php?ano=2021&sem=1), sob orientação dos professores Adriana Pagano, Thiago Castro Ferreira, Evandro Cunha e Flavia Mayer.
 
 ## Autor
-Cristiano Martins é jornalista de dados. Trabalha atualmente no portal [O Tempo](www.otempo.com.br) e é colaborador do projeto [Covid19-BR](https://brasil.io/covid19/). Graduado em Jornalismo pela PUC Minas, especialista em Jornalismo de Investigação, Dados e Visualização pela Universidad Rey Juan Carlos e em Data Science pela Universidade Nove de Julho (Uninove). Mestrando em [Informática e Gestão do Conhecimento](https://www.uninove.br/cursos/mestrado-e-doutorado/presencial/mestrado-e-doutorado-em-inform%C3%A1tica-e-gest%C3%A3o-do-conhecimento) na Uninove. 
+Cristiano Martins é jornalista de dados. Trabalha atualmente no portal [O Tempo](http://www.otempo.com.br) e é colaborador do projeto [Covid19-BR](https://brasil.io/covid19/). Graduado em Jornalismo pela PUC Minas, master em Jornalismo de Investigação, Dados e Visualização pela *Universidad Rey Juan Carlos* (Espanha) e especialista em *Data Science* pela Universidade Nove de Julho (Uninove). Mestrando em [Informática e Gestão do Conhecimento](https://www.uninove.br/cursos/mestrado-e-doutorado/presencial/mestrado-e-doutorado-em-inform%C3%A1tica-e-gest%C3%A3o-do-conhecimento) na Uninove. 
 
 Mais informações:
 * Lattes: [http://lattes.cnpq.br/2134033520588291](http://lattes.cnpq.br/2134033520588291)
